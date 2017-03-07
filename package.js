@@ -1,6 +1,6 @@
 Package.describe({
   name: 'clinical:hl7-resource-family-member-history',
-  version: '1.1.1',
+  version: '1.2.0',
   summary: 'HL7 FHIR Resource - Family Member History',
   git: 'https://github.com/clinical-meteor/hl7-resource-family-member-history',
   documentation: 'README.md'
